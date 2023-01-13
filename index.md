@@ -14,4 +14,4 @@ $ ssh cs15lwi23zz@ieng6.ucsd.edu
 ```
 I was met with a few messages after this, and simply inputted yes to what the terminal asked. After, I was remotely connected and this is what my terminal looked like:
 
-![Image]()
+![Image](https://github.com/igerth/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20at%2012.31.19%20PM.png?raw=true)
