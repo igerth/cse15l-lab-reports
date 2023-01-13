@@ -14,3 +14,12 @@ $ ssh cs15lwi23zz@ieng6.ucsd.edu
 I was met with a few messages after this, and simply inputted yes to what the terminal asked. After, I was remotely connected and this is what my terminal looked like:
 
 ![Image](https://github.com/igerth/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20at%2012.31.19%20PM.png?raw=true)
+
+3.  Last step was to try a few commands once remotely connected, like `cd`, `ls`, `pwd`, `mkdir`, and `cp`. I chose to run:
+
+```
+ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc
+```
+I replaced the `abc` with both another group mate's CSE 15L id and mine. When I tried to list the files in my group mate's directory, it returned `Permission denied.` When I tried to list the files in my directory, however, it returned `hello.txt  per15`. This is what that looked like in my terminal:
+
+![Image]()
