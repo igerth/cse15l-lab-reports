@@ -20,6 +20,9 @@ I was met with a few messages after this, and simply inputted yes to what the te
 ```
 ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc
 ```
-I replaced the `abc` with both another group mate's CSE 15L id and mine. When I tried to list the files in my group mate's directory, it returned `Permission denied` When I tried to list the files in my directory, however, it returned `hello.txt  per15`. This is what that looked like in my terminal:
+I replaced the `abc` with both another group mate's CSE 15L id and mine. When I tried to list the files in my group mate's directory, it returned `Permission denied`. When I tried to list the files in my directory, however, it returned `hello.txt  per15`. This is what that looked like in my terminal:
 
 ![Image](https://github.com/igerth/cse15l-lab-reports/blob/main/Screenshot%202023-01-12%20at%2012.40.11%20PM.png?raw=true)
+
+## Summary:
+In this lab, I learned how use a terminal in VS Code to remotely connect to a remote server at UCSD over the internet. I ran some different commands that I saw in lecture and learned how to publish my findings on GitHub and GitHub pages. 
